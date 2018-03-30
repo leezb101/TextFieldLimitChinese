@@ -1,0 +1,2 @@
+# TextFieldLimitChinese
+通过NSNotification监听TextField文字变化限制输入中文字数以及只能输入中文的demo（学习新方法）
